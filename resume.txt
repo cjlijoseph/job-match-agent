@@ -1,0 +1,44 @@
+Lijo Joseph Cheruthuruthy Jomon
+IT Support Intern | Help Desk | Microsoft 365 & Access Administration
+
+PROFESSIONAL SUMMARY
+Motivated IT support professional with hands-on experience in user account, access and group administration, first-line troubleshooting and clear documentation. Holds a Bachelor of Computer Applications and is currently completing the IBM IT Support Technician pathway. Calm, patient communicator who logs, tracks and closes out every request. Seeking an IT Support Intern role covering help desk, onboarding and offboarding, and asset tracking.
+SKILLS
+•	Help Desk: ticket handling, first-line support, escalation with clear detail, password resets and multi-factor sign-in support
+•	Windows & Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Google Workspace
+•	Troubleshooting: laptops, printers, Wi-Fi, peripherals, basic networking (Cisco Packet Tracer)
+•	Onboarding & Offboarding: user account creation and removal, permission and group management
+•	Documentation: clear records, how-to guides and FAQs for recurring issues
+•	Other: Python, Django, Power BI, AI tools (ChatGPT, Claude, Gemini), video editing (CapCut)
+•	Languages: English, Malayalam
+EXPERIENCE
+Working Student – IT Administration (Intern) | Hubinit, Netherlands (Remote) | 3 months
+•	Supported onboarding and offboarding by creating, updating and removing user accounts
+•	Assigned and adjusted access permissions according to role requirements
+•	Created and maintained user groups for team and resource access
+•	Supported colleagues with day-to-day IT and access requests
+Python Developer Intern | Inmakes Infotech, Kochi, India | 3 months
+•	Built website features and pages with Python and the Django framework
+•	Worked with Django models, views, templates and URL routing
+•	Collaborated with the team and met project requirements and deadlines
+Video Editor (Freelance) | 2022 – Present
+•	Produced promotional videos and teaching content, delivered to brief and on schedule
+•	Handled editing, cutting, sound and export for different platforms
+EDUCATION
+Master’s studies, Computer Engineering for IoT Systems | 2023 – 2026
+Hochschule Nordhausen University of Applied Sciences, Germany (programme not completed)
+Bachelor of Computer Applications (BCA) | 2019 – 2022
+Yenepoya University, India
+PROJECTS
+•	AI Productivity Initiative: used AI tools to automate repetitive IT support tasks
+•	Computer Networking Lab: network project built in Cisco Packet Tracer
+•	Business Dashboard: personal Power BI project
+•	Video & Content Creation: Microsoft Copilot advertisement for a private company (CapCut and AI)
+CERTIFICATIONS & TRAINING
+•	IBM IT Support Technician Professional Certificate – in progress
+•	Microsoft certification -in progress
+•	Hardware Components and Troubleshooting
+•	Network Protocol and Configuration
+•	Information Technology Fundamentals
+•	Microsoft Power Platform Fundamentals
+•	AI Explorer – AI Bootcamp Fundamentals; 1 Million Prompters – Certificate of Completion
